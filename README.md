@@ -4,7 +4,7 @@
 
 ###
 
-<h3>My Skils:</h3>
+<h3>My Skills:</h3>
 <div>
 
 
