@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gustavo Ribeiro!</h1>
 
-<p>I'm a Web Developer dedicated to building efficient solutions and solving complex technical challenges. Currently deepening my expertise in systems infrastructure, robust database management, advanced Data Structures & Algorithms (DSA).</p>
+<p>Web Developer dedicated to building efficient solutions and solving complex technical challenges. Currently deepening my expertise in systems infrastructure, robust database management, advanced Data Structures & Algorithms (DSA).</p>
 
 ###
 
