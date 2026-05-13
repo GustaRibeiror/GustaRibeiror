@@ -8,29 +8,11 @@
 <div>
 
 
-  <img width="12" />
-  <img height="60" alt="image" src="https://github.com/user-attachments/assets/3bfe7040-0fb0-4e5b-bf48-8b3114ec74db" />
-  
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/36c2383f-471f-4ba3-880b-9c39944ad3b2" height="60" alt="vite"/>
-
-  <img width="12" />
-  <img height="60" alt="php" src="https://github.com/user-attachments/assets/d5cb1f35-1197-4419-843a-0dc07810ec76" />
-
-  <img width="12" />
-  <img height="60" alt="image" src="https://github.com/user-attachments/assets/83eb52ca-e6f5-4468-a0d7-74e5d419bce1" />
-
-  <img width="12" />
-  <img height="60" alt="image" src="https://github.com/user-attachments/assets/2afc0524-4a98-4045-a2be-b4b81fca55ad" />
-
-  <img width="12" />
-  <img height="60" alt="image" src="https://github.com/user-attachments/assets/8c8b57eb-62ad-4f0e-905e-7f1d8269f65b" />
-
-  <img width="12" />
-  <img height="60" alt="image" src="https://github.com/user-attachments/assets/9fa5429a-94b1-468d-841d-e5be09e82d0e" />
-
-  <img width="12" />
-  <img height="60" alt="image" src="https://github.com/user-attachments/assets/d8a57e51-f978-43bb-b2d1-ab69f3bffa86" />
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,vite,php,laravel,react,linux,vue,git,docker" />
+  </a>
+</p>
 
 
 </div>
